@@ -12,13 +12,13 @@
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/vittominacori/watch-token/issues"
+    "url": "https://github.com/top1st/watch-token/issues"
   },
   "license": "MIT",
-  "author": "Vittorio Minacori (https://github.com/vittominacori)",
+  "author": "Vittorio Minacori (https://github.com/top1st)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vittominacori/watch-token.git"
+    "url": "https://github.com/top1st/watch-token.git"
   },
   "dependencies": {
     "web3": "^1.3.3"
